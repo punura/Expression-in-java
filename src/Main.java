@@ -5,7 +5,7 @@ public class Main {
 		
 		double friends = 10;
 		
-		friends = (double) friends / 3;
+		friends = (double) friends / 2;
 		
 		System.out.println(friends);
 
